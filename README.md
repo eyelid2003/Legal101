@@ -1,4 +1,4 @@
-# LegalConnect Readme
+# LegalConnect
 
 LegalConnect is a cutting-edge web application designed to bridge the gap between legal professionals and the public. With a seamless blend of professional networking and knowledge-sharing features inspired by platforms like LinkedIn and Quora, LegalConnect offers a unique and invaluable resource for both lawyers and individuals seeking legal guidance.
 
